@@ -4,4 +4,4 @@
 
 ## 📌 Table of Contents
 
-- [2. HW2 - ARP](./HW2/Readme.md)
+- [2. HW2 - ARP](./HW2/README.md)
